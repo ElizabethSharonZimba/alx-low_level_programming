@@ -1,0 +1,28 @@
+#include <stdio.h>
+#include "main.h"
+/**
+ * main - finds & prints the sum of the equal-valued terms
+ * Return: (0) successfull execution
+ */
+int main(void)
+{
+	int i;
+
+	unsigned long int j, k next, sum,
+	j = 1;
+	k = 2;
+	sum = 0;
+	for (i = 1; i <= 33; ++i)
+	{
+	if (j < 4000000 && (j % 2) == 0)
+	{
+	sum = sum + j;
+	}
+	next = j + k;
+	j = k;
+	l = next;
+}
+print f("%lu\n", sum);
+return (0);
+}
+
