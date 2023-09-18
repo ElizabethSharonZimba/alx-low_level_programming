@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 /**
- * main - password random generator
+ * main - random password generator
  * Return: 0 succeesful execution
  */
 int main(void)
