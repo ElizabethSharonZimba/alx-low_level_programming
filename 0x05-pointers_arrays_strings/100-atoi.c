@@ -1,4 +1,5 @@
 #include "main.h"
+#include <stdio.h>
 /**
  * _if_not_number - returns first int in a str acc for + g -
  * @s: checks str
