@@ -1,6 +1,6 @@
 #include "lists.h"
 /**
-* print_listint - list of int
+* print_listint - listint
 * @h: pointer to node
 * Return: lenght
 **/
